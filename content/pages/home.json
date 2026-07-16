@@ -18,10 +18,10 @@
         "id": "7768190",
         "elType": "widget",
         "settings": {
-          "sub_title": "{ Best Award Winner 2025 }",
-          "title": "<span>Nimo</span>",
-          "big_title": "Digital Agency",
-          "description": "We design digital solutions that elevate your brand and boost conversions. Don’t settle for a site. Build a powerful platform.",
+          "sub_title": "{ Building the Future, Today }",
+          "title": "<span>HEXA</span>",
+          "big_title": "Software Agency",
+          "description": "Empowering businesses with custom software solutions, AI-driven tools, and scalable cloud technologies.",
           "button_text": "About Our Agency",
           "button_link": {
             "url": "/about-us/",
@@ -88,14 +88,14 @@
             "source": "library"
           },
           "image_2": {
-            "url": "/images/h1-img-1.webp",
+            "url": "/images/h1-img-1.png",
             "id": 49,
             "size": "",
             "alt": "",
             "source": "library"
           },
           "image_3": {
-            "url": "/images/h1-img-1.webp",
+            "url": "/images/h1-img-1.png",
             "id": 49,
             "size": "",
             "alt": "",
@@ -228,8 +228,8 @@
           "feature_boxs": [
             {
               "_id": "8f84270",
-              "f_box_title": "Our Mission",
-              "f_box_text": "To help brands stand out online, tell their story, and drive\n                                        measurable success through digital creativity and smart strategy.",
+              "f_box_title": "Our History",
+              "f_box_text": "Founded in 2022, Hexavibes Solutions began as a small, \n passionate team driven by the desire to solve real-world problems through technology. \n In past couple of years, we’ve grown into a trusted digital solutions partner—delivering innovative software, mobile applications, and digital marketing services to clients across the globe.",
               "list_icon": {
                 "value": "flaticon flaticon-mission-statement",
                 "library": "element-helper-flaticon"
